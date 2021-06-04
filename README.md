@@ -47,3 +47,4 @@ python manage.py runserver
 ```
 git push (nombre del repositorio)
 ```
+Nota: Si no funciona hacer un git pull primero.
