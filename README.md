@@ -38,3 +38,12 @@ ALLOWED_HOSTS = ['192.168.33.10', '127.0.0.1']
 ```
 python manage.py runserver
 ```
+
+## Para subir cosas a github
+
+1. Guarda los commits en la pestaña Source Control, debemos notificar lo que hemos hecho
+
+2. Por último envía la carpeta de django_polls en el repositorio con:
+```
+git push (nombre del repositorio)
+```
